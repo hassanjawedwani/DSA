@@ -78,3 +78,6 @@
 //   }
 //   console.log(str);
 // }
+
+
+// Hoisting
